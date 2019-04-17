@@ -4,7 +4,7 @@
     <div class="row justify-content-md-center">
         <div class="col-md-4">
             <img src="../../assets/images/logo-150x150.png" width="150px"/>
-            <h1>INTRANET | ERG</h1>
+            <h1>test</h1>
             <form role="form">
                 <div class="form-content">
                     <div class="form-group">
